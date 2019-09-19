@@ -15,5 +15,9 @@ Download JDK 11.* terbaru ( saya lebih prefer versi stabil 8.* ) di <a href="htt
 
 <img src ="flutter1.png">
 
-Klik file installer yang sudah di donwload. Di wizard instalasi jangan lupa sempatkan catat/copy instalasi kita, contoh <code>C:\Program Files\Java\jdk1.8.0_191\</code> (yang nanti akan menjadi JAVA_HOME)
+Klik file installer yang sudah di donwload. Di wizard instalasi jangan lupa sempatkan catat/copy instalasi kita, contoh <code>C:\Program Files\Java\jdk1.8.0_191\ </code> (yang nanti akan menjadi JAVA_HOME)
+
+<img src="javaJDK.png">
+
+Setelah terinstall, buka : <code>Control Panel > System and Security > System > Advanced System Setting </code> lalu pilih <b> Tab Advanced </b> dan klik tombol <b> Environtment Variables </b>.
 
