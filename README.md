@@ -50,4 +50,4 @@ Jangan lupa tambahkan juga (dengan /bin) ke Path Windows.
 
 Buka Command Shell baru dan Test Gradle sudah berjalan atau belum, dengan menuliskan Command : <code>gradle -v</code>
 
-<img src ="gradle3.png>
+<img src ="gradle3.png">
