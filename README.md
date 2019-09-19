@@ -21,3 +21,7 @@ Klik file installer yang sudah di donwload. Di wizard instalasi jangan lupa semp
 
 Setelah terinstall, buka : <code>Control Panel > System and Security > System > Advanced System Setting</code> lalu pilih <b> Tab Advanced </b> dan klik tombol <b> Environtment Variables </b>.
 
+<img src ="envi.png">
+
+Cari bagian Path lalu edit atau tambahkan <code>C:\Program Files\Java\jdk.1.8.0_191\bin;</code> (dipaling depan saja), lalu klik OK.
+
