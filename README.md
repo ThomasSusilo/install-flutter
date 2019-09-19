@@ -23,3 +23,4 @@ Jika ingin menjalankan flutter di console Windows biasa, lakukan setting PATH Fl
 2. Pada User Variabel cek Variabel dengan nama <b>PATH</b>, lalu pilih dan klik Edit.
 3. Tambahkan variabel Value dengan alamat/address dimana kalian menyimpan file flutter tadi dengan <code>\flutter\bin;</code> sebagai valuenya. Contoh saya menyimpan flutter pada direktori <code>C:\Flutter\flutter\bin</code>. Lalu klik OK.
 
+<img src ="enviroment1.JPG">
