@@ -25,3 +25,7 @@ Setelah terinstall, buka : <code>Control Panel > System and Security > System > 
 
 Cari bagian Path lalu edit atau tambahkan <code>C:\Program Files\Java\jdk.1.8.0_191\bin;</code> (dipaling depan saja), lalu klik OK.
 
+<img src ="path.png">
+
+Untuk memeriksa apakah path kita sudah siap dipalai, buka <b>Command Shell</b> dan cek versi Java menggunakan Command Line: <code>Java -version</code>
+
