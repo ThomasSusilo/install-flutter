@@ -29,3 +29,7 @@ Cari bagian Path lalu edit atau tambahkan <code>C:\Program Files\Java\jdk.1.8.0_
 
 Untuk memeriksa apakah path kita sudah siap dipalai, buka <b>Command Shell</b> dan cek versi Java menggunakan Command Line: <code>Java -version</code>
 
+<img src = "javaVersion.png">
+
+Kembali ke <b>Environment Variables</b>, gunakan tombol New dan buat variabel JAVA_HOME dengan isi Path JDK (tanpa bin).
+
