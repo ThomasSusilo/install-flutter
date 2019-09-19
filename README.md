@@ -51,3 +51,15 @@ Jangan lupa tambahkan juga (dengan /bin) ke Path Windows.
 Buka Command Shell baru dan Test Gradle sudah berjalan atau belum, dengan menuliskan Command : <code>gradle -v</code>
 
 <img src ="gridle3.png">
+
+## Install Android Command Line Tools
+Download Android command line tools-nya saja dari, <a href="https://developer.android.com/studio/#downloads">https://developer.android.com/studio/#downloads</a>
+
+<img src ="linetool1.png">
+
+Ekstrak /tools ke direktori (kita ikuti path Android Studio saja) <code>C:\Users\nama_user\AppData\Local\Android\Sdk\tools</code>.
+
+<img src ="linetool2.png">
+<img src ="linetool3.png">
+<img src ="linetool4.png">
+<img src ="linetool5.png">
