@@ -12,3 +12,8 @@ Untuk melakukan Instalasi <b>Flutter</b> pada Windows cukup mudah. Namun pastika
 Cek apakah ada JDK/JRE sudah terinstall sebelumnya (atau bawaan mesin). Uninstall agar bersih via: <b> Control Panel > Programs > Programs and Features </b>.
 
 Download JDK 11.* terbaru ( saya lebih prefer versi stabil 8.* ) di <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html"> https://www.oracle.com/technetwork/java/javase/downloads/index.html </a>
+
+<img src ="flutter1.png">
+
+Klik file installer yang sudah di donwload. Di wizard instalasi jangan lupa sempatkan catat/copy instalasi kita, contoh <code>C:\Program Files\Java\jdk1.8.0_191\</code> (yang nanti akan menjadi JAVA_HOME)
+
