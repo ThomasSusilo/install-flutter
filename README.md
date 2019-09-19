@@ -33,3 +33,21 @@ Untuk memeriksa apakah path kita sudah siap dipalai, buka <b>Command Shell</b> d
 
 Kembali ke <b>Environment Variables</b>, gunakan tombol New dan buat variabel JAVA_HOME dengan isi Path JDK (tanpa bin).
 
+<img src = "javaHome.png">
+
+Buka Command Shell baru lagi dan periksa dengan Command : <code>SET JAVA_HOME</code>
+
+<img src ="SetjavaHome.png">
+
+## Install Gradle
+Download Gradle (versi 3.5.x, pilih-pilih sehingga tidak perlu dokumentasi dan source) dari <a href="https://gradle.org/next-steps/?version=3.5&format=bin"> https://gradle.org/next-steps/?version=3.5&format=bin </a> lalu alamat Directory atau Path Gradle kita set menjadi <b>GRADLE_HOME</b>.
+
+<img src ="gradle1.png">
+
+Jangan lupa tambahkan juga (dengan /bin) ke Path Windows.
+
+<img src ="gradle2.png">
+
+Buka Command Shell baru dan Test Gradle sudah berjalan atau belum, dengan menuliskan Command : <code>gradle -v</code>
+
+<img src ="gradle3.png>
