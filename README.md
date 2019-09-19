@@ -63,3 +63,25 @@ Ekstrak /tools ke direktori (kita ikuti path Android Studio saja) <code>C:\Users
 <img src ="linetool3.png">
 <img src ="linetool4.png">
 <img src ="linetool5.png">
+
+## Download Git For Windows
+
+Download dan ekstrak Flutter SDK, tambahkan juga pathnya
+
+<img src = "git1.png">
+
+Install USB Driver untuk device Android kita di <a href="https://developer.android.com/studio/run/oem-usb">https://developer.android.com/studio/run/oem-usb</a>, aktifkan Developer & Debug Mode lalu sambungkan device ke laptop kita.
+
+Jalankan Command Flutter Doctor
+
+<img src ="git2.png">
+
+Flutter telah siap digunakan.
+
+
+# Sumber
+<a href="https://medium.com/cikenstrip-codes/menginstall-flutter-tanpa-android-studio-698e2ef2adff">https://medium.com/cikenstrip-codes/menginstall-flutter-tanpa-android-studio-698e2ef2adff</a>
+<a href="https://www.teknotut.com/flutter-tutorial-install-flutter-pada-windows-mac-os-dan-linux/">https://www.teknotut.com/flutter-tutorial-install-flutter-pada-windows-mac-os-dan-linux/</a>
+
+## Info Lanjut
+<a href="http://www.matanauniversity.ac.id/"> MATANA UNIVERSITY </a>
