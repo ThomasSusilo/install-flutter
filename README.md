@@ -78,10 +78,5 @@ Jalankan Command Flutter Doctor
 
 Flutter telah siap digunakan.
 
-
-# Sumber
-<a href="https://medium.com/cikenstrip-codes/menginstall-flutter-tanpa-android-studio-698e2ef2adff">https://medium.com/cikenstrip-codes/menginstall-flutter-tanpa-android-studio-698e2ef2adff</a>
-<a href="https://www.teknotut.com/flutter-tutorial-install-flutter-pada-windows-mac-os-dan-linux/">https://www.teknotut.com/flutter-tutorial-install-flutter-pada-windows-mac-os-dan-linux/</a>
-
-## Info Lanjut
+# Info Lanjut
 <a href="http://www.matanauniversity.ac.id/"> MATANA UNIVERSITY </a>
